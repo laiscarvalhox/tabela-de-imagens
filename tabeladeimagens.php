@@ -6,17 +6,7 @@
     <title>Document</title>
 </head>
 
-<style>
-    table{
-        border-collapse: collapse;
-    }
-    td{
-        border: 3px solid pink;
-    }
-    img{
-        width: 150px;
-    }
-    </style>
+<link rel="stylesheet" href="img.css">
 
 <body>
 
